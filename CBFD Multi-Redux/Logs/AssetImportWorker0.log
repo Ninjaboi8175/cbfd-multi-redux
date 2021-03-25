@@ -1,0 +1,111 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0b12 (5f97ac28ace0) revision 6264748'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 65432 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0b12\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/danny/Documents/GitHub/cbfd-multi-redux/CBFD Multi-Redux
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61506
+Successfully changed project path to: C:/Users/danny/Documents/GitHub/cbfd-multi-redux/CBFD Multi-Redux
+C:/Users/danny/Documents/GitHub/cbfd-multi-redux/CBFD Multi-Redux
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0b12 (5f97ac28ace0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/danny/Documents/GitHub/cbfd-multi-redux/CBFD Multi-Redux/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f14)
+    Vendor:   NVIDIA
+    VRAM:     8031 MB
+    Driver:   27.21.14.5774
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56220
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001537 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.923 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000497 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.660 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1124 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 1.677900 ms (FindLiveObjects: 0.133500 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.459800 ms  DeleteObjects: 0.056300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fonts
+  artifactKey: Guid(07966aa267c6ee842ad78321c7164e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts using Guid(07966aa267c6ee842ad78321c7164e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe225f8e78aefbce25505601a915470') in 0.007408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Fonts/Londrina_Solid/LondrinaSolid-Black.ttf
+  artifactKey: Guid(4272a68171a6e6e47a1912a2d3f7a6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Londrina_Solid/LondrinaSolid-Black.ttf using Guid(4272a68171a6e6e47a1912a2d3f7a6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1780ae8d7315300133a9bde01e536c2b') in 0.138842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Fonts/Londrina_Solid
+  artifactKey: Guid(61c4f153c0875974a90290aab422d7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Londrina_Solid using Guid(61c4f153c0875974a90290aab422d7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da242de6790f04df052aa34cdcf3f83') in 0.004700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Fonts/Londrina_Solid/LondrinaSolid-Light.ttf
+  artifactKey: Guid(1ea51a43dbef0aa4bac367eeb648a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Londrina_Solid/LondrinaSolid-Light.ttf using Guid(1ea51a43dbef0aa4bac367eeb648a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9ff00a3d9da24c61b033fcbffbd4b0') in 0.012464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Fonts/Londrina_Solid/LondrinaSolid-Regular.ttf
+  artifactKey: Guid(1f569c692d068d449898677b418b92b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Londrina_Solid/LondrinaSolid-Regular.ttf using Guid(1f569c692d068d449898677b418b92b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f5a7ba979651bd22dcdb3211f45339') in 0.010302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Fonts/Londrina_Solid/LondrinaSolid-Thin.ttf
+  artifactKey: Guid(2b58371394231554093c0d7b918e42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Londrina_Solid/LondrinaSolid-Thin.ttf using Guid(2b58371394231554093c0d7b918e42b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a8b9f8742e291109d57b3ccfca4dba') in 0.010292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.452521 seconds.
+  path: Assets/Textures/Color Grid Diffuse.png
+  artifactKey: Guid(aa8c5752dc66af645869deac609a126a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Color Grid Diffuse.png using Guid(aa8c5752dc66af645869deac609a126a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208bc4be45b2f2aff1934a060fb0e27c') in 0.059550 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
