@@ -3,12 +3,12 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 CBFD\ Multi-Redux/[Ll]ibrary/
-CBFD\ Multi-Redux[Tt]emp/
-CBFD\ Multi-Redux[Oo]bj/
-CBFD\ Multi-Redux[Bb]uild/
-CBFD\ Multi-Redux[Bb]uilds/
-CBFD\ Multi-Redux[Ll]ogs/
-CBFD\ Multi-Redux[Mm]emoryCaptures/
+CBFD\ Multi-Redux/[Tt]emp/
+CBFD\ Multi-Redux/[Oo]bj/
+CBFD\ Multi-Redux/[Bb]uild/
+CBFD\ Multi-Redux/[Bb]uilds/
+CBFD\ Multi-Redux/[Ll]ogs/
+CBFD\ Multi-Redux/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
