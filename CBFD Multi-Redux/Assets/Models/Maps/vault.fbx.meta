@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 7985c6e8c506ce443a75836a80fed6d4
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown Pipe Wire To Vault
+    second: {fileID: 2100000, guid: 6a4900b1f36ef534c9838431c96a0903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deep Black
+    second: {fileID: 2100000, guid: a9ef176536d816a428ca7a257bb7cacb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deep White
+    second: {fileID: 2100000, guid: 09448541b053f1648858bc9a416b8b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrical Box With Wires
+    second: {fileID: 2100000, guid: 0be6004e7782c9f41842a28dc6086e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electrical Box With Wires Vertical Space
+    second: {fileID: 2100000, guid: 632bec4ee287a0b459b7fa87160a2248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Spawn Hallway Material
+    second: {fileID: 2100000, guid: 6cbc7a0a76a85184db946ea3796af98e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green and Yellow Spawn Hallway Material
+    second: {fileID: 2100000, guid: 532ca1f2fd8fafe4286758e70d3a091c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hallway Ceiling Wires And Walls
+    second: {fileID: 2100000, guid: 1f581aa56be2602429f05d6281a684f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hallway Ceiling Wires Green
+    second: {fileID: 2100000, guid: 7e66aac7360a4f94da34a43f637e02ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hallway Ceiling Wires Yellow
+    second: {fileID: 2100000, guid: a96edb927508c1c4f995da8a5267ff08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: f69884955bb5fb5498b52e195d29f225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 8ca84260667fd164fbce12dce42a8c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon Arrows Blue Yellow
+    second: {fileID: 2100000, guid: 842ec0038af889a469ec0e20d406018a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon Arrows Green Blue
+    second: {fileID: 2100000, guid: d8c38eb9c95104041b753c0bc7401446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon Arrows Red Green
+    second: {fileID: 2100000, guid: 3833ba15b1496e5449efc0231355e887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon Arrows Yellow Red
+    second: {fileID: 2100000, guid: e01c92e9ff12801459d2f50e0f7d5921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small Light Fixture
+    second: {fileID: 2100000, guid: b6f43259e05c3de46aa4287f0646f60f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairRampFloor
+    second: {fileID: 2100000, guid: 4f03e0f4c51f4e84b86aa9b2e9b66c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Pipes
+    second: {fileID: 2100000, guid: 8be493276c6303a44a1373b1f465945b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Pipes with Center
+    second: {fileID: 2100000, guid: df9ae1fda69bcba4099bc1afac53603e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Pipes with LEDs
+    second: {fileID: 2100000, guid: 86a95fdbecabc3045932826152f04f9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Two Lights Wall
+    second: {fileID: 2100000, guid: 72bab7f4e27f95844b0526a2f0d6c41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Wall Terminal
+    second: {fileID: 2100000, guid: e9d719908c46a1742a4d9dcc22759373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs White Pipes
+    second: {fileID: 2100000, guid: 26dada0a36d070147a1663336ea20dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs White Pipes With Handle
+    second: {fileID: 2100000, guid: f68837f08056a174290df1a8be9279ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairsVent
+    second: {fileID: 2100000, guid: 153d5d5463168ae4dba89ebd6fee6d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telephone Wall
+    second: {fileID: 2100000, guid: 916086dec31ad5641af0e45c7a50bed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Center Floor
+    second: {fileID: 2100000, guid: cd1c14038c5060844af25398d17a0cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 2 Hallway Tiled
+    second: {fileID: 2100000, guid: 3a423b8a9fcfc034a8566c72b723cd49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 2 Material
+    second: {fileID: 2100000, guid: c6b9baacda19b1e46be23e564b810f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 2 Tiled Blue Spawn Room
+    second: {fileID: 2100000, guid: 83691f070bf7e5e40976a60929806c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 2 Tiled Spawn Room Material
+    second: {fileID: 2100000, guid: 2a7c7d9fc4df4eb4294442321b718cdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 3 Material
+    second: {fileID: 2100000, guid: 26cc39cf200cded4296e9844c3588489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 4 Green Spawn Material
+    second: {fileID: 2100000, guid: 4909d0b6a04334043919a0f35019f64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 4 Green and Yellow Spawn Material
+    second: {fileID: 2100000, guid: 8d5d7f95db78b874daa1d44ae650163b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 4 Material
+    second: {fileID: 2100000, guid: feb5fe1af20a08144aa42a5e3ea15c07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 4 Tiled Spawn Room Material
+    second: {fileID: 2100000, guid: a9e4196dceb96ef43a8e2886c8149dc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 5
+    second: {fileID: 2100000, guid: ce27db392869d0d4fa794bfbbd292158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 5 Material
+    second: {fileID: 2100000, guid: edd5b5a953db798419bebb2d0342d4c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 6 Constrained Hallway
+    second: {fileID: 2100000, guid: 95cfd24d8731e4c49bbd45175ec8f8ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 6 Material
+    second: {fileID: 2100000, guid: ba5b31c4ffa4be34e9929edddd53e589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 7
+    second: {fileID: 2100000, guid: 3d37c60d85104ae4da963be27c22fc2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 8
+    second: {fileID: 2100000, guid: 6e8d79f2c2c99564084c7ca5c80ff051, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 8 Sniper Entrance
+    second: {fileID: 2100000, guid: 2ae1581bf14e2e34f88aee3a7b742ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Floor 9
+    second: {fileID: 2100000, guid: 15bf5eef71a79674f91d83e5cb7dea99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Railing
+    second: {fileID: 2100000, guid: 26e3a0d07ea04c141bf162c221258951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 1
+    second: {fileID: 2100000, guid: a12a4d738bb4a2f41b98dc8c1030b6c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 1 Green Spawn Material
+    second: {fileID: 2100000, guid: d9bb28a494ea52b4aa6cc1ed085138e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 10
+    second: {fileID: 2100000, guid: d4479e7ae9f721745a5deaadcd5ed1b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 11
+    second: {fileID: 2100000, guid: f80401917aaa6994eba67f333c341cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 12
+    second: {fileID: 2100000, guid: a5ab0378532906144ba87660cd32b346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 12 Sniper Entrance
+    second: {fileID: 2100000, guid: 01cbbf430f98dc9498b864ab911a7d7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 2 Base Tiled Material
+    second: {fileID: 2100000, guid: 97c9a0f9961d0784ab8bee1f46a7738f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 2 Green Spawn Material
+    second: {fileID: 2100000, guid: 35409e6bd5dade040a5397bc52d112ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 2 Green and Yellow Spawn Material
+    second: {fileID: 2100000, guid: 46179cf2260e89b49a90ab5eb3fc322f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 2 Material
+    second: {fileID: 2100000, guid: d2f5cc8ccd8ba0145a31265034f88911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 2 Material.001
+    second: {fileID: 2100000, guid: 5526ebf4c378eb0469cd9daeba7a9a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 3 Green Spawn Material
+    second: {fileID: 2100000, guid: 7852b64f32f4bcf40a38feb8a170dd2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 3 Material
+    second: {fileID: 2100000, guid: ce7787abdd6a09641b1c0c897aaa43c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 4 Green Spawn Material
+    second: {fileID: 2100000, guid: dc2c3cfde423c09458b5f387170288be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 4 Green and Yellow Spawn Material
+    second: {fileID: 2100000, guid: bf63a0099ec376847acc472b234d7cb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 4 Material
+    second: {fileID: 2100000, guid: dd986454b507f11459c137b1eddf3378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 4 Stretched X3
+    second: {fileID: 2100000, guid: 1e85ce0b80175584ba4f067e0ad31e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 5 Green Spawn Material
+    second: {fileID: 2100000, guid: 6bdb87c56d922d54b88b8e43086902be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 5 Material
+    second: {fileID: 2100000, guid: ca43f809a0e4c1b46892ff84db266af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 6 Material
+    second: {fileID: 2100000, guid: 9fdf211fd7fe7134c88fc490e0abd48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 7 Material
+    second: {fileID: 2100000, guid: ca1620eace6198240ad169643b2d46ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 8
+    second: {fileID: 2100000, guid: 76a95ad7543e5c84abf8506a8e02205e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall 9
+    second: {fileID: 2100000, guid: 258e58eeff79a3a4ea537bb76d52d124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall with 3 Screens Broken
+    second: {fileID: 2100000, guid: 8f55c2f5fc13659488577ad5c9f05c7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vault Wall with 3 Screens Working
+    second: {fileID: 2100000, guid: 52f68d5158a7d8c4bbc36ad829c148c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wires Straight
+    second: {fileID: 2100000, guid: a5d3849e8f2968143940b24c8551b3ab, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
